@@ -12,7 +12,7 @@ Node part:
 	var express = require('express');
 	...
 	app = express();
-	require('tualo-extjs').init(app);
+	app.use(require('tualo-extjs').middleware);
 
 Browser part:
 
