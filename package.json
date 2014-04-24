@@ -1,22 +1,32 @@
 {
-	"name": "tualo-extjs",
-	"version": "4.2.1",
-	"author": {
-		"name": "Thomas Hoffmann",
-		"email": "thomas.hoffmann@tualo.de"
-	},
-	"description": "A route module for express, adding Sencha Ext JS Files",
-	"main": "./lib/ext",
-	"engines": {
-		"node": ">=0.8.0"
-	},
-	"keywords": [
-		"extjs"
-	],
-	"license" : "GPLv3",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/tualo/tualo-extjs.git"
-	},
-	"readmeFilename": "README.md"
+    "name": "tualo-extjs",
+    "version": "5.0.0",
+    "author": [
+        {
+            "name": "Thomas Hoffmann",
+            "email": "thomas.hoffmann@tualo.de",
+            "url": "http://tualo.de/"
+        }
+    ],
+    "maintainers": [
+        {
+            "name": "Thomas Hoffmann",
+            "email": "thomas.hoffmann@tualo.de",
+            "url": "http://tualo.de/"
+        }
+    ],
+    "description": "A route module for express, adding Sencha Ext JS Files",
+    "main": "./lib/ext",
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "keywords": [
+        "extjs"
+    ],
+    "license" : "GPLv3",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tualo/tualo-extjs.git"
+    },
+    "readmeFilename": "README.md"
 }

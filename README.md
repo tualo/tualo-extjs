@@ -16,5 +16,5 @@ Node part:
 
 Browser part:
 
-	<link rel="stylesheet" href="/extjs/resources/ext-theme-neptune/ext-theme-neptune-all.css">
-	<script src="/extjs/ext-all.js"></script>
+	<link rel="stylesheet" href="/ext/resources/ext-theme-neptune/ext-theme-neptune-all.css">
+	<script src="/ext/ext-all.js"></script>
